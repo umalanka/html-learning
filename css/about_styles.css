@@ -1,4 +1,46 @@
 
+#skill-list{
+	margin-left: 40px;
+		background-color: #5AD4C2;
+	color: #AAA;
+}
+
+body{
+	background-color: #fffeea;
+	color: #34495e;
+}
+
+.skills{
+	background-color: #5AD4C2;
+	color: #AAA;
+	padding: 100px 100px 100px 100px;
+}
+
+/* Typography*/
+h1,
+h2,
+h3 {
+	font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+p,
+li {
+	font-family: georgia, serif;
+}
+
+.intro p{
+	font-family: futura, Helvetica, Arial,sans-serif;
+	font-size: 3em;
+	font-weight: 100;
+	-webkit-margin-before:1em;
+}
+
+.skills h3{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
 * { box-sizing: border-box; }
 
 .container{

@@ -1,0 +1,23 @@
+.jumbotron{
+	text-align: center;
+	
+	
+}
+
+body{
+	background-image: url("../img/landscape.jpg");
+	background-size: cover;
+}
+
+/* Typography*/
+p {
+	font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+p,
+li {
+	font-family: georgia, serif;
+}
+
+
+
